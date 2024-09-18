@@ -3,12 +3,9 @@
 <h2>👨‍💻 Android Development Projects:</h2>
 
 - <b>Some of my finished projects</b>
-  
+  - [Flight Search](https://github.com/Anas-prod/flight-search)
+  - [Novels Bookshelf](https://github.com/Anas-prod/novels-bookshelf)
 
-<!--
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
