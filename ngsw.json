@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1727105385896,
+  "timestamp": 1727105907167,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/379.5f11bdf04838753e.js",
         "/705.55d85ebdbfa3f80d.js",
+        "/827.ca1a1d25adfa19a7.js",
         "/favicon.ico",
         "/index.html",
-        "/main.c81d23976a562258.js",
+        "/main.c651cb71e3338158.js",
         "/polyfills.9fe3c5a5e27d189d.js",
-        "/runtime.4c0906f205330057.js",
+        "/runtime.4ef8c1747127a547.js",
         "/scripts.e6e7150f792134cd.js",
         "/styles.61b0674320f41b27.css"
       ],
@@ -118,9 +118,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/379.5f11bdf04838753e.js": "631064960f44910f521351a300a8bb8376312733",
     "/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
     "/705.55d85ebdbfa3f80d.js": "c0d6b07dda18309cbc6602a7653501373de11570",
+    "/827.ca1a1d25adfa19a7.js": "521e7f9a16a6945685129543a46a30360954836b",
     "/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
@@ -201,11 +201,11 @@
     "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/index.html": "44cabc7ba48ffb341c0ae45d189ebf7559e89b55",
-    "/main.c81d23976a562258.js": "602fc9b83e1485e5b5b2053a09cc9cf17144d307",
+    "/index.html": "c5f1dd7f14cd69b58d5b86fb97d3fe6c369b38be",
+    "/main.c651cb71e3338158.js": "ba8dc5d27ee98490a0e96f17933a2d2e41bac848",
     "/polyfills.9fe3c5a5e27d189d.js": "aaf59aead8325bfebfdf262887d20d0e5107a789",
     "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/runtime.4c0906f205330057.js": "e3d6e634faf05634d41539523b3c6c95b5d33ce9",
+    "/runtime.4ef8c1747127a547.js": "e1f61e5e26ccdc39e644a72a8a289f0cb8b38410",
     "/scripts.e6e7150f792134cd.js": "63c98d50db2b76c6145bc27453a7defc1cd6234e",
     "/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
