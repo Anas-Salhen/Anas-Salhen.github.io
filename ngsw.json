@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1727105907167,
+  "timestamp": 1727106461444,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/main.c651cb71e3338158.js",
         "/polyfills.9fe3c5a5e27d189d.js",
         "/runtime.4ef8c1747127a547.js",
-        "/scripts.e6e7150f792134cd.js",
+        "/scripts.3241a445045104b2.js",
         "/styles.61b0674320f41b27.css"
       ],
       "patterns": []
@@ -84,6 +84,7 @@
         "/assets/images/portfolio/AI-Image-Caption-Bot.webp",
         "/assets/images/portfolio/AI-Music-Generation.webp",
         "/assets/images/portfolio/E-Commerce-Site.webp",
+        "/assets/images/portfolio/Flight-Search.webp",
         "/assets/images/portfolio/School-Donation-Analysis.webp",
         "/assets/images/portfolio/URL-Shortner.webp",
         "/assets/images/quote-img.webp",
@@ -125,7 +126,7 @@
     "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "daa3daa1dfb9c80bb635d4db60bf77bc6fd6d7fa",
-    "/assets/data.min.js": "128fea8624f9d6249b796b697115b4262edd62e1",
+    "/assets/data.min.js": "8b4b3db34eb47507bb7b9c67929aa9438ba31d46",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -173,6 +174,7 @@
     "/assets/images/portfolio/AI-Image-Caption-Bot.webp": "9253cd71d800ecb32a1c285b045ecef0cd9be4a2",
     "/assets/images/portfolio/AI-Music-Generation.webp": "318a35d17b17eb1dd866338f0811f8d285899e47",
     "/assets/images/portfolio/E-Commerce-Site.webp": "544b397ff8b64b490b9252c71a7c08905fe55e10",
+    "/assets/images/portfolio/Flight-Search.webp": "eae1a95aadfedbf2a67bb4c6be774d831d1dd00f",
     "/assets/images/portfolio/School-Donation-Analysis.webp": "ce5dc709992a20e339e135c211b37ef9db6ecd60",
     "/assets/images/portfolio/URL-Shortner.webp": "a4b98fe5bf7658d5f1ceb2c79f87404f28f089db",
     "/assets/images/quote-img.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
@@ -201,12 +203,12 @@
     "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/index.html": "c5f1dd7f14cd69b58d5b86fb97d3fe6c369b38be",
+    "/index.html": "92e9ecda49fa44e6841959e67a14ca0bfaa32f07",
     "/main.c651cb71e3338158.js": "ba8dc5d27ee98490a0e96f17933a2d2e41bac848",
     "/polyfills.9fe3c5a5e27d189d.js": "aaf59aead8325bfebfdf262887d20d0e5107a789",
     "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
     "/runtime.4ef8c1747127a547.js": "e1f61e5e26ccdc39e644a72a8a289f0cb8b38410",
-    "/scripts.e6e7150f792134cd.js": "63c98d50db2b76c6145bc27453a7defc1cd6234e",
+    "/scripts.3241a445045104b2.js": "8dcb646e7fb1556a4fb2c17a101160c1c40b7056",
     "/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
   "navigationUrls": [
