@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1727416095599,
+  "timestamp": 1727422392624,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/main.c651cb71e3338158.js",
         "/polyfills.9fe3c5a5e27d189d.js",
         "/runtime.c27704c42e438e68.js",
-        "/scripts.3241a445045104b2.js",
+        "/scripts.d45a7911b81a9f60.js",
         "/styles.61b0674320f41b27.css"
       ],
       "patterns": []
@@ -126,7 +126,7 @@
     "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "daa3daa1dfb9c80bb635d4db60bf77bc6fd6d7fa",
-    "/assets/data.min.js": "8b4b3db34eb47507bb7b9c67929aa9438ba31d46",
+    "/assets/data.min.js": "803636b4427f72fd2b31a05ad113a64a20399d05",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -203,12 +203,12 @@
     "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/index.html": "654de5bb617b91b63eff3138e83b90afeb9e9e8f",
+    "/index.html": "ffe5fd0bee6f923f0a7e60c991307ecb8893f849",
     "/main.c651cb71e3338158.js": "ba8dc5d27ee98490a0e96f17933a2d2e41bac848",
     "/polyfills.9fe3c5a5e27d189d.js": "aaf59aead8325bfebfdf262887d20d0e5107a789",
     "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
     "/runtime.c27704c42e438e68.js": "e564f9a6920b7c888d90d85bb07e49d4cf35a6d9",
-    "/scripts.3241a445045104b2.js": "8dcb646e7fb1556a4fb2c17a101160c1c40b7056",
+    "/scripts.d45a7911b81a9f60.js": "7a98a298f0c61de58a46e428fc2927b6515908a7",
     "/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
   "navigationUrls": [
